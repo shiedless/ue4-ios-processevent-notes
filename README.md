@@ -227,4 +227,11 @@ for when you genuinely need to see everything going through the engine.
 
 ---
 
+<p align="center">
+  <sub><b>part 6 of 7</b> in the <a href="https://github.com/shiedless/ios-ue4-re">ios-ue4-re</a> series</sub><br>
+  <sub>← <a href="https://github.com/shiedless/ue4-ios-fname-notes">ue4-ios-fname-notes</a> · <a href="https://github.com/shiedless/ios-ue4-re">index</a> · <a href="https://github.com/shiedless/tencent-ace-anogs-notes">tencent-ace-anogs-notes</a> →</sub>
+</p>
+
+---
+
 <p align="center">— shiedless</p>
